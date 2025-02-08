@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Minimal JS Image Classifiers
 ---
 
